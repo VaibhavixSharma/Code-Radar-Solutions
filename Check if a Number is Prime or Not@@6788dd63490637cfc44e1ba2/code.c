@@ -7,7 +7,7 @@ int main(){
             div++;
             break;
         }else{
-            continue
+            continue;
         }
     }
     if(div == 0){
